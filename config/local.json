@@ -1,0 +1,5 @@
+{
+    "port": "3020",
+    "transport": "local",
+    "mongoUrl": "mongodb://localhost:27017/nas"
+}
